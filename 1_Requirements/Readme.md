@@ -18,8 +18,8 @@ Easily Add, Delete, Modify Records.
 Various Essential Queries.
 
 ## Research
-![Description](Link to Pic)
--- Content 
+
+-- I did a Research about this project in Wikipedia as well as google also, there only i get the idea how to design this project and i get what are the requirements like which softwares required like that and i searced some already created projects for reference. 
 ## Cost and Features and Timeline
 1.Time-saving Technology 2.Improved Efficiency by avoiding human errors 3.Reduces scope for Error 4.Data security and correct data retrieval made possible 5.Cost effective and easily manageable 6.Easy access to employee data with correct employee history 7.Improved maintaining employeeninformation made possible 8.Reduces the work of documentation
 ## Defining Our System
