@@ -72,13 +72,13 @@ Threats:
 **
 
 # <h1>Detail requirements
-## <h2>High Level Requirements: 
+## <h2>High Level Requirements 
 |<h3>ID | <h3>Description | <h3>Status  |
 |:------|:----------------|:------------|
 |Employee Activity|It includes employee records and information|Implemented|
 |Adminstration|It includes admin information, general adminstration|future|
 |Salary details|It includes employee payment details,pay recipts etc|future|	
-## <h2>Low level Requirements:
+## <h2>Low level Requirements
 |<h3>ID | <h3>Description | <h3>Status  |
 |:------|:----------------|:------------|
 |security|It should secure because only authorized user or admin can use this system|Implemented|
