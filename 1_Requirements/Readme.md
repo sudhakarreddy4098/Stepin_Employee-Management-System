@@ -72,7 +72,7 @@ Threats:
 **
 
 # Detail requirements
-## <h2>High Level Requirements 
+## High Level Requirements 
 |<h3>ID | <h3>Description | <h3>Status  |
 |:------|:----------------|:------------|
 |Employee Activity|It includes employee records and information|Implemented|
