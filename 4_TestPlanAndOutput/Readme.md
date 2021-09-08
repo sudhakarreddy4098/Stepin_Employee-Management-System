@@ -12,14 +12,10 @@
 | H_06 | Login into the system | Password | Accepted |Accepted| pass |
 | H_07 | Exit from the system | Exit | Exited | Exited | pass |
 
-
 ## Low Level Test Plan
-
-
 
 | Test ID | Description | Exp I/P | Exp O/P |	Actual Output | status |
 | --- | --- | --- | --- | --- | --- |
 | L_01 | Delete employee record not existed  | id | id not found | id not found | pass |
 | L_02 | Login into the system | Password | Denied | Denied | pass | 
 | L_03 | display employee details| employee details | employee not found | employee not found | pass |
-
