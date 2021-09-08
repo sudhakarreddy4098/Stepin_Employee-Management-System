@@ -71,7 +71,7 @@ Threats:
 **The system creates an external file to store the data perminantly.This system is deployed using c programming.
 **
 
-# <h1>Detail requirements
+# Detail requirements
 ## <h2>High Level Requirements 
 |<h3>ID | <h3>Description | <h3>Status  |
 |:------|:----------------|:------------|
