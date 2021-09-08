@@ -42,34 +42,31 @@ Threats:
 
 • Economic or Virius insecurity • Policy and legislation changes that result in budget deficits • Pressure to reduce costs while meeting expectations of universal technical coverage • Increased competition from newly built software organizations.
 
-
-# 4W&#39;s and 1&#39;H
-
-## Who:
+## Who
 
 **The implementation of Employee management system project provides the institution with different advantages that improve the project quality and efficiency. As mentioned above it is created a user can handle: employee details, records and management, and third-parties like drug suppliers and client projects.
 
 **
 
-## What:
+## What
 
 **The Employee management system helps register complete employee information. It captures and stores the employee history, skills required, details of their previous experience, upcoming handled projects if any,project reports, or salary details and more.
 
 **
 
-## When:
+## When
 
 **EMS information system helps to track every employee, reduce leakages as well as reduce manual work and therefore there is no requirement of the higher human workforce.
 
 **
 
-## Where:
+## Where
 
 **Employee Management System helps the professionals in organization to check out the employee profile, project participation, salary records, and other relevant things and therefore results in the organization professionals to make decisions at the right time
 
 **
 
-## How:
+## How
 
 **The system creates an external file to store the data perminantly.This system is deployed using c programming.
 **
@@ -81,8 +78,6 @@ Threats:
 |Employee Activity|It includes employee records and information|Implemented|
 |Adminstration|It includes admin information, general adminstration|future|
 |Salary details|It includes employee payment details,pay recipts etc|future|	
-
-
 ## <h2>Low level Requirements:
 |<h3>ID | <h3>Description | <h3>Status  |
 |:------|:----------------|:------------|
