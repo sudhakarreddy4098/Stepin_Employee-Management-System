@@ -2,7 +2,6 @@
 This project is the implementation for “ EMPLOYEE MANAGEMENT SYSTEM”  is a program developed for managing details regarding number of employees availabile in the organization.
 The program is very helpful to find the results of the employee full details easily.we can find the any employee by entering the employee id. The project and implementation is developed by using c.
 
-
 # GIT INSPECTOR
 
 ![gitinspector](https://www.code-inspector.com/project/27835/score/svg)
@@ -32,11 +31,8 @@ The program is very helpful to find the results of the employee full details eas
   
   ## How to Build
   
-  
-  ### To build and execute:
+  ### To build and execute
 ```
 make all
 make run
 ```
-
-
