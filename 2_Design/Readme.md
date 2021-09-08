@@ -8,8 +8,6 @@
 ---Activity Diagram( Behavioural Diagram)
 ![Untitled Workspace](https://user-images.githubusercontent.com/85819741/132127070-cc7fb292-c9dd-49f9-af1e-c0824158817e.jpg)
 
-
-
 ## Low Level Design 
 
 --- Deployment( Structural)
